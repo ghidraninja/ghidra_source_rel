@@ -1,2 +1,2 @@
-# ghidra_source_rel1
-Ghidra is a software reverse engineering (SRE) framework https://www.nsa.gov/ghidra
+# Happy 1. of April!
+![](https://github.com/rick/roll/raw/master/docs/rickroll.gif)
